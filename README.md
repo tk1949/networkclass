@@ -16,4 +16,4 @@
 
 目录结构如下
 
-![图片加载失败](https://github.com/tk1949/networkclass/root.jpg)
+![图片加载失败](https://github.com/tk1949/networkclass/blob/master/root.jpg)
