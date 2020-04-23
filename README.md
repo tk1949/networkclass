@@ -14,6 +14,6 @@
 
 提示：在使用本例子时需要把编译后的`TestClass`移动到项目的根目录下再次运行程序，否则自定义的`NetworkClassLoader`里面实现的`findClass`函数无法实现模拟在网络中加载类
 
-目录机构如下
+目录结构如下
 
 ![图片加载失败](https://github.com/tk1949/networkclass/blob/master/root.jpg)
